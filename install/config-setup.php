@@ -198,7 +198,7 @@ if(!file_exists('../config.app.php')){ ?>
 				<td>
 					<select name="email_encryption">
 					<option value="">(none)</option>
-					<option value="tsl">TSL</option>
+					<option value="tls">TLS</option>
 					<option value="ssl">SSL</option>
 					</select>
 				</td>
